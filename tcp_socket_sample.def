@@ -1,0 +1,7 @@
+; tcp_socket_sample.def : Declares the module parameters for the DLL.
+
+LIBRARY      "tcp_socket_sample"
+DESCRIPTION  'tcp_socket_sample Windows Dynamic Link Library'
+
+EXPORTS
+    vm_entry @1
