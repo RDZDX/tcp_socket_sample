@@ -3,5 +3,5 @@ Tcp_socket_sample for MRE platform mobile phone (including Nokia S30+). If exist
 first two text lines from "tcp_socket_sample.txt" will be used as custom "host" and "port" addresses (if changing app name change default text file name). Tested on Nokia 225 with display resolution 240x320. 
 For using with Nokia mobile phone, app must be signed with IMSI (your SIM card) code.
 https://vxpatch.luxferre.top/
-Application file - "[tcp_socket_sample.vxp](https://github.com/RDZDX/tcp_socket_sample/blob/main/tcp_socket_sample.vxp?raw=true)".
+Application file - "[tcp_socket_sample.vxp](https://rdzdx.github.io/tcp_socket_sample/tcp_socket_sample.vxp)".
 
